@@ -25,11 +25,11 @@ import (
 	"github.com/spf13/cast"
 	"github.com/spf13/cobra"
 
-	"github.com/CosmWasm/wasmd/x/wasm/client/cli"
-	"github.com/CosmWasm/wasmd/x/wasm/exported"
-	"github.com/CosmWasm/wasmd/x/wasm/keeper"
-	"github.com/CosmWasm/wasmd/x/wasm/simulation"
-	"github.com/CosmWasm/wasmd/x/wasm/types"
+	"github.com/JackalLabs/wasmd/x/wasm/client/cli"
+	"github.com/JackalLabs/wasmd/x/wasm/exported"
+	"github.com/JackalLabs/wasmd/x/wasm/keeper"
+	"github.com/JackalLabs/wasmd/x/wasm/simulation"
+	"github.com/JackalLabs/wasmd/x/wasm/types"
 )
 
 var (
