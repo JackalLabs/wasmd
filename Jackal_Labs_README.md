@@ -1,1 +1,1 @@
-This fork allows extra customizations for canine-chain cosmwasm bindings
+This fork allows extra customizations for canine-chain cosmwasm bindings.

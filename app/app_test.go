@@ -11,7 +11,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/CosmWasm/wasmd/x/wasm"
+	"github.com/JackalLabs/wasmd/x/wasm"
 )
 
 var emptyWasmOpts []wasm.Option

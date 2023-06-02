@@ -25,10 +25,10 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/CosmWasm/wasmd/app"
-	"github.com/CosmWasm/wasmd/x/wasm/keeper"
-	"github.com/CosmWasm/wasmd/x/wasm/keeper/wasmtesting"
-	"github.com/CosmWasm/wasmd/x/wasm/types"
+	"github.com/JackalLabs/wasmd/app"
+	"github.com/JackalLabs/wasmd/x/wasm/keeper"
+	"github.com/JackalLabs/wasmd/x/wasm/keeper/wasmtesting"
+	"github.com/JackalLabs/wasmd/x/wasm/types"
 )
 
 func TestIBCQuerier(t *testing.T) {

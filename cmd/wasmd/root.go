@@ -30,11 +30,11 @@ import (
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 
-	"github.com/CosmWasm/wasmd/app"
-	"github.com/CosmWasm/wasmd/app/params"
-	"github.com/CosmWasm/wasmd/x/wasm"
-	wasmkeeper "github.com/CosmWasm/wasmd/x/wasm/keeper"
-	wasmtypes "github.com/CosmWasm/wasmd/x/wasm/types"
+	"github.com/JackalLabs/wasmd/app"
+	"github.com/JackalLabs/wasmd/app/params"
+	"github.com/JackalLabs/wasmd/x/wasm"
+	wasmkeeper "github.com/JackalLabs/wasmd/x/wasm/keeper"
+	wasmtypes "github.com/JackalLabs/wasmd/x/wasm/types"
 )
 
 // NewRootCmd creates a new root command for wasmd. It is called once in the

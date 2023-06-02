@@ -41,8 +41,8 @@ import (
 	stakingtypes "github.com/cosmos/cosmos-sdk/x/staking/types"
 	"github.com/stretchr/testify/require"
 
-	"github.com/CosmWasm/wasmd/x/wasm"
-	wasmtypes "github.com/CosmWasm/wasmd/x/wasm/types"
+	"github.com/JackalLabs/wasmd/x/wasm"
+	wasmtypes "github.com/JackalLabs/wasmd/x/wasm/types"
 )
 
 // SetupOptions defines arguments that are passed into `WasmApp` constructor.

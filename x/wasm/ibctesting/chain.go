@@ -19,8 +19,8 @@ import (
 	"github.com/cosmos/cosmos-sdk/crypto/keys/secp256k1"
 	cryptotypes "github.com/cosmos/cosmos-sdk/crypto/types"
 
-	"github.com/CosmWasm/wasmd/app"
-	"github.com/CosmWasm/wasmd/x/wasm"
+	"github.com/JackalLabs/wasmd/app"
+	"github.com/JackalLabs/wasmd/x/wasm"
 
 	// simtestutil "github.com/cosmos/cosmos-sdk/testutil/sims"
 	abci "github.com/cometbft/cometbft/abci/types"

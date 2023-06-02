@@ -8,7 +8,7 @@ import (
 	stakingkeeper "github.com/cosmos/cosmos-sdk/x/staking/keeper"
 	ibckeeper "github.com/cosmos/ibc-go/v7/modules/core/keeper"
 
-	"github.com/CosmWasm/wasmd/x/wasm"
+	"github.com/JackalLabs/wasmd/x/wasm"
 )
 
 func (app *WasmApp) GetIBCKeeper() *ibckeeper.Keeper {

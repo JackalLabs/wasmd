@@ -14,9 +14,9 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/CosmWasm/wasmd/tests/e2e"
-	"github.com/CosmWasm/wasmd/x/wasm/ibctesting"
-	"github.com/CosmWasm/wasmd/x/wasm/types"
+	"github.com/JackalLabs/wasmd/tests/e2e"
+	"github.com/JackalLabs/wasmd/x/wasm/ibctesting"
+	"github.com/JackalLabs/wasmd/x/wasm/types"
 )
 
 func TestGrants(t *testing.T) {

@@ -29,7 +29,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/CosmWasm/wasmd/x/wasm/types"
+	"github.com/JackalLabs/wasmd/x/wasm/types"
 )
 
 const firstCodeID = 1
